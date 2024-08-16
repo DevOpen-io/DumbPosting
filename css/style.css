@@ -68,7 +68,7 @@
 
 :root {
     --light-yellow: #f7f2f1;
-    --primery: #fc815d;
+    --primery: #1f3a93;
     --dark-black: #181a22;
     --dark-greay: #9599ab;
     --greay: #afafaf;
@@ -453,22 +453,22 @@ header {
 }
 
 .header_bg {
-	background: rgb(251,88,113);
-	background: linear-gradient(63deg, rgba(251,88,113,1) 0%, rgba(252,129,93,1) 100%);
+	background: rgb(31,58,147);
+	background: linear-gradient(63deg, rgba(31,58,147,1) 0%, rgba(31,58,147,1) 100%);
 }
 
 header.fix_style {
     position: fixed;
     top: 0;
     backdrop-filter: blur(5px);
-    /*background-color: #fc815db4;*/
+    /*background-color: #1f3a93b4;*/
     padding: 0;
     transition: none;
     opacity: 0;
     pointer-events: none;
 
-    background: rgb(251,88,113);
-    background: linear-gradient(63deg, rgba(251,88,113,1) 0%, rgba(252,129,93,1) 100%);
+    background: rgb(31,58,147);
+    background: linear-gradient(63deg, rgba(31,58,147,1) 0%, rgba(31,58,147,1) 100%);
 }
 
 header.fixed {
@@ -681,8 +681,8 @@ header.fixed .navbar {
 .banner_section {
     position: relative;
     padding-top: 150px;
-    background: rgb(251,88,113);
-    background: linear-gradient(63deg, rgba(251,88,113,1) 0%, rgba(252,129,93,1) 100%);
+    background: rgb(31,58,147);
+    background: linear-gradient(63deg, rgba(31,58,147,1) 0%, rgba(31,58,147,1) 100%);
 
 }
 
@@ -2220,8 +2220,8 @@ iframe#youtubevideo {
 }
 
 .downaload_section .app_btn li a:hover {
-	background: rgb(251,88,113);
-    background: linear-gradient(63deg, rgba(251,88,113,1) 0%, rgba(252,129,93,1) 100%);
+	background: rgb(31,58,147);
+    background: linear-gradient(63deg, rgba(31,58,147,1) 0%, rgba(31,58,147,1) 100%);
     transition: .4s all;
 }
 
@@ -2424,14 +2424,14 @@ footer .download_side .app_btn li a {
     position: relative;
     border-radius: 12px;
     transition: .4s all;
-    background: rgb(251,88,113);
-	background: linear-gradient(63deg, rgba(251,88,113,1) 0%, rgba(252,129,93,1) 100%);
+    background: rgb(31,58,147);
+	background: linear-gradient(63deg, rgba(31,58,147,1) 0%, rgba(31,58,147,1) 100%);
 
 }
 
 footer .download_side .app_btn li a:hover {
-	background: rgb(251,88,113);
-	background: linear-gradient(63deg, rgba(252,129,93,1) 0%, rgba(251,88,113,1) 100%);
+	background: rgb(31,58,147);
+	background: linear-gradient(63deg, rgba(31,58,147,1) 0%, rgba(31,58,147,1) 100%);
 
 }
 
@@ -3275,8 +3275,8 @@ footer .download_side .app_btn li a img {
 }
 
 .download_app .app_btn li a:hover {
-    background: rgb(251,88,113);
-	background: linear-gradient(63deg, rgba(251,88,113,1) 0%, rgba(252,129,93,1) 100%);
+    background: rgb(31,58,147);
+	background: linear-gradient(63deg, rgba(31,58,147,1) 0%, rgba(31,58,147,1) 100%);
 	transition: .4s all;
 }
 
